@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cyoa", "Cyoa\Cyoa.pyproj", "{1BC4FAB0-2234-42DE-8A4E-C03DA51F054D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC4FAB0-2234-42DE-8A4E-C03DA51F054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC4FAB0-2234-42DE-8A4E-C03DA51F054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8601855-39CE-491F-84B7-C3F894AE09EB}
+	EndGlobalSection
+EndGlobal
