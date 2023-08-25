@@ -29,8 +29,10 @@
     <Folder Include="lib\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="lib\keyboard.c" />
     <Content Include="lib\keyboard.dll" />
+    <Content Include="lib\keyboard.dll.c" />
+    <Content Include="lib\keyboard.so" />
+    <Content Include="lib\keyboard.so.c" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
